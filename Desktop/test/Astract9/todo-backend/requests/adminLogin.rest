@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/admin/login
+Content-Type: application/json
+
+
+
+{
+    "email": "admin@mail.com",
+    "password": "admin"
+}

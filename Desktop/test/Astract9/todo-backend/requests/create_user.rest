@@ -1,0 +1,16 @@
+POST http://localhost:3003/api/users
+Content-Type: application/json
+
+
+{
+    "email": "user@mail.com",
+    "name": "Michael",
+    "password": "user"
+}
+
+//{
+   // "email": "admin@mail.com",
+   // "name": "John",
+   // "password": "admin",
+   // "role": "admin"
+//}

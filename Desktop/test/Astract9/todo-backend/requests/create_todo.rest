@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/todos
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJpZCI6IjYyNzQ4Njg4OGQzYjVlODQ3YTNjOWM5NCIsImlhdCI6MTY1MTgwNDA0MCwiZXhwIjoxNjUxODA3NjQwfQ.W6n3hAdjJphSuBxMPG59jdAdJC6xYYRSRbmVeWOHfhs
+
+{
+    "content": "Mint some NFTs",
+    "checked": true
+}
+
